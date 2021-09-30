@@ -5,7 +5,7 @@ import java.math.BigInteger;
 /**
  * @author beichenhpy
  * @version 1.0.0
- * @apiNote 3x+1 问题
+ * @apiNote 3x+1
  * @since 2021/8/6 22:01
  */
 public class ThreeXPlusOne {
